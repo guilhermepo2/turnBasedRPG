@@ -6,7 +6,7 @@
 
 Like this:
 
-![Pokemon Image](pkm0-img3.png)
+![Pokemon Image](images/pkm0-img3.png)
 
 **Second Idea:** I want it to have some kind of an API where it is relatively simple to develop an AI that can come up with strategies to play this kind of game.
 
@@ -87,7 +87,7 @@ On Pokemon Battle, there are a set of rules that happens on a battle.
 
 ## Damage Calculation [Source]()
 
-![DamageCalc](damageCalc.png)
+![DamageCalc](images/damageCalc.png)
 
 **A** is the effective attack stat of the Pokemon attacking (Attack or Special Attack).
 
@@ -97,7 +97,7 @@ On Pokemon Battle, there are a set of rules that happens on a battle.
 
 **About the modifier...**
 
-![ModifierCalc](modifierCalc.png)
+![ModifierCalc](images/modifierCalc.png)
 
 **Target:** *n/a*
 
