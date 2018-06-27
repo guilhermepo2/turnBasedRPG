@@ -28,6 +28,13 @@ I worked on one AI like this on my graduation and I want to develop a simple tes
 2. Data Oriented Design
 3. The rest is pretty much on the source code, go check it out (unless the project is on a very early phase)
 
+### Data Considerations
+1. I will want to read both Pokemon's speed sequentially. The same applies to the level.
+2. When acessing a pokemon attack or special attack, I will be acessing the other pokemon defense or special defense.
+3. When acessing a certain move, I will mostly need it's type, PP, power and accuracy.
+4. If I can manage to have both Pokemon on cache, it would be wonderful (no idea what I'm talking about here).
+5. Maybe this is not a project I should be worrying about data oriented programming.
+
 --------
 
 ## Pokemon Information
