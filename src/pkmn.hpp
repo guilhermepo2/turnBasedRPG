@@ -11,6 +11,7 @@ public:
     unsigned char mSpecialAttack;
     unsigned char mSpecialDefense;
     unsigned char mSpeed;
+    unsigned char mLevel;
 };
 
 // public attributes uses less cpu cycles to read/write
