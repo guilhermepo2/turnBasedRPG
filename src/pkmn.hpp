@@ -9,7 +9,7 @@ public:
     unsigned char mAttack;
     unsigned char mDefense;
     unsigned char mSpecialAttack;
-    unsigned char mSpecialDeffense;
+    unsigned char mSpecialDefense;
     unsigned char mSpeed;
 };
 
