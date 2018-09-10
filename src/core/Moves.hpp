@@ -1,11 +1,12 @@
 #pragma once
+#include "lib/BaseType.hpp"
 
 class Move {
     public:
-    unsigned int mId; // 1 - 728
-    unsigned char mPp; // 0 - 40
-    unsigned char mPower; // 0 - 255
-    unsigned char mAccuracy; // 0 - 100
+    uint16 mId; // 1 - 728
+    uint8 mPp; // 0 - 40
+    uint8 mPower; // 0 - 255
+    uint8 mAccuracy; // 0 - 100
     
     // Other Information Currently not Implemented
     // TYPE (string)

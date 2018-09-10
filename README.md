@@ -121,4 +121,5 @@ Every attribute with a *n/a* has a different purpose and meaning on original Pok
 
 -------------------------
 
+
 **That's it for starters :)**
