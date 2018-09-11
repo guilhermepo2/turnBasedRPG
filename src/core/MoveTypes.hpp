@@ -1,6 +1,6 @@
 #pragma once
 
-enum eMoveTypes {
+enum eMoveType {
     Bug,
     Dark,
     Dark,

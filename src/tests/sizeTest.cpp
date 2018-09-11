@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "core/Moves.hpp"
+#include "core/Move.hpp"
 
 // This class has 12 bytes
 class uPokemon {
