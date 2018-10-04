@@ -12,11 +12,7 @@ set(TESTS_DIR ${PROJECT_SOURCE_DIR}/tests)
 include_directories("${PROJECT_SOURCE_DIR}")
 SET(GCC_COVERAGE_LINK_FLAGS "-v")
 
-# Application Example
-add_executable(size ${TESTS_DIR}/sizeTest.cpp)
-add_executable(twopkmn ${TESTS_DIR}/twoPokemonTest.cpp)
-
 # unit testing
-# add_executable(rule_test ${TESTS_DIR}/Rule.cpp)
+add_executable(stats_test ${TESTS_DIR}/Stats.cpp)
 
 # ./bin/size && ./bin/twopkmn

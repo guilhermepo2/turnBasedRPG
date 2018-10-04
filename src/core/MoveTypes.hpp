@@ -3,7 +3,6 @@
 enum eMoveType {
     Bug,
     Dark,
-    Dark,
     Dragon,
     Eletric,
     Fairy,
