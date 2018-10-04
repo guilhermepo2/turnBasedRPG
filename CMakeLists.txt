@@ -14,5 +14,6 @@ SET(GCC_COVERAGE_LINK_FLAGS "-v")
 
 # unit testing
 add_executable(stats_test ${TESTS_DIR}/Stats.cpp)
+add_executable(math_utilities ${TESTS_DIR}/MathUtilities.cpp)
 
 # ./bin/size && ./bin/twopkmn
